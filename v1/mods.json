@@ -1,0 +1,458 @@
+[
+  {
+    "id": "mod_001",
+    "name": "The Hollow Watcher",
+    "description": "A faceless shadow entity stalks the night, teleporting behind unsuspecting players. Its hollow gaze freezes nearby mobs in terror.",
+    "category": "ENTITY",
+    "poster_url": "https://picsum.photos/seed/hollow_watcher/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/hollow_watcher_1/800/600",
+      "https://picsum.photos/seed/hollow_watcher_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/hollow_watcher.mcpack",
+    "file_size": 2048000,
+    "rating": 4.8,
+    "downloads": 128500,
+    "is_premium": false,
+    "author": "DarkForgeStudios",
+    "mcpe_version": "1.20+",
+    "updated_at": 1700000000
+  },
+  {
+    "id": "mod_002",
+    "name": "Crimson Mansion",
+    "description": "Explore a sprawling haunted mansion with 47 rooms, secret passages, blood-stained corridors, and a vengeful spirit guarding ancient treasure.",
+    "category": "MAP",
+    "poster_url": "https://picsum.photos/seed/crimson_mansion/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/crimson_mansion_1/800/600",
+      "https://picsum.photos/seed/crimson_mansion_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/crimson_mansion.mcworld",
+    "file_size": 15360000,
+    "rating": 4.9,
+    "downloads": 256000,
+    "is_premium": true,
+    "author": "NightmareBuilds",
+    "mcpe_version": "1.20+",
+    "updated_at": 1701000000
+  },
+  {
+    "id": "mod_003",
+    "name": "Abyssal Depths Shader",
+    "description": "Plunge the world into deep ocean darkness. Murky water effects, bioluminescent mobs, crushing pressure fog, and haunting underwater ambience.",
+    "category": "SHADER",
+    "poster_url": "https://picsum.photos/seed/abyssal_shader/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/abyssal_shader_1/800/600",
+      "https://picsum.photos/seed/abyssal_shader_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/abyssal_depths.mcpack",
+    "file_size": 5120000,
+    "rating": 4.7,
+    "downloads": 89300,
+    "is_premium": false,
+    "author": "ShadowPixelFX",
+    "mcpe_version": "1.19+",
+    "updated_at": 1699000000
+  },
+  {
+    "id": "mod_004",
+    "name": "Screaming Scarecrow",
+    "description": "Scarecrows come to life at midnight. They scream when approached, chase players through cornfields, and vanish at dawn leaving only their hat.",
+    "category": "JUMPSCARE",
+    "poster_url": "https://picsum.photos/seed/screaming_scarecrow/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/scarecrow_1/800/600",
+      "https://picsum.photos/seed/scarecrow_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/screaming_scarecrow.mcpack",
+    "file_size": 1536000,
+    "rating": 4.5,
+    "downloads": 72100,
+    "is_premium": false,
+    "author": "HarvestHorror",
+    "mcpe_version": "1.20+",
+    "updated_at": 1702000000
+  },
+  {
+    "id": "mod_005",
+    "name": "Rotted Flesh Texture Pack",
+    "description": "Overhauls every block and mob with decayed, rotting aesthetics. Stone becomes crumbling bone, wood turns to blackened timber, skeletons gain exposed viscera.",
+    "category": "TEXTURE",
+    "poster_url": "https://picsum.photos/seed/rotted_flesh/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/rotted_1/800/600",
+      "https://picsum.photos/seed/rotted_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/rotted_flesh.mcpack",
+    "file_size": 22528000,
+    "rating": 4.6,
+    "downloads": 145200,
+    "is_premium": true,
+    "author": "MacabrePixels",
+    "mcpe_version": "1.20+",
+    "updated_at": 1703000000
+  },
+  {
+    "id": "mod_006",
+    "name": "Survival: Blackwood Asylum",
+    "description": "Escape from a crumbling psychiatric asylum. Solve puzzles, avoid patrolling orderlies, find medication to stave off hallucinations, and uncover the dark truth.",
+    "category": "GAMEPLAY",
+    "poster_url": "https://picsum.photos/seed/blackwood_asylum/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/asylum_1/800/600",
+      "https://picsum.photos/seed/asylum_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/blackwood_asylum.mcworld",
+    "file_size": 18432000,
+    "rating": 4.9,
+    "downloads": 312000,
+    "is_premium": true,
+    "author": "LockedWardGames",
+    "mcpe_version": "1.20+",
+    "updated_at": 1704000000
+  },
+  {
+    "id": "mod_007",
+    "name": "The Mirrorborn",
+    "description": "A pale doppelganger emerges from reflective surfaces at night, mimicking player movement. Looking directly at it triggers a violent jumpscare and instant blindness.",
+    "category": "ENTITY",
+    "poster_url": "https://picsum.photos/seed/mirrorborn/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/mirrorborn_1/800/600",
+      "https://picsum.photos/seed/mirrorborn_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/mirrorborn.mcpack",
+    "file_size": 2560000,
+    "rating": 4.7,
+    "downloads": 98400,
+    "is_premium": false,
+    "author": "DarkForgeStudios",
+    "mcpe_version": "1.20+",
+    "updated_at": 1700500000
+  },
+  {
+    "id": "mod_008",
+    "name": "Fog of Ruin Shader",
+    "description": "Thick, rolling fog consumes the horizon. Dynamic weather shifts reveal brief glimpses of horrifying silhouettes before plunging back into impenetrable grey.",
+    "category": "SHADER",
+    "poster_url": "https://picsum.photos/seed/fog_of_ruin/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/fog_shader_1/800/600",
+      "https://picsum.photos/seed/fog_shader_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/fog_of_ruin.mcpack",
+    "file_size": 4096000,
+    "rating": 4.4,
+    "downloads": 67800,
+    "is_premium": false,
+    "author": "ShadowPixelFX",
+    "mcpe_version": "1.19+",
+    "updated_at": 1698000000
+  },
+  {
+    "id": "mod_009",
+    "name": "Saltmarsh Cemetery",
+    "description": "A vast open-world cemetery map with 200+ graves, underground catacombs, a crumbling chapel, and wandering apparitions that phase through walls.",
+    "category": "MAP",
+    "poster_url": "https://picsum.photos/seed/saltmarsh/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/saltmarsh_1/800/600",
+      "https://picsum.photos/seed/saltmarsh_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/saltmarsh_cemetery.mcworld",
+    "file_size": 12288000,
+    "rating": 4.6,
+    "downloads": 187000,
+    "is_premium": false,
+    "author": "GraveyardCraft",
+    "mcpe_version": "1.20+",
+    "updated_at": 1701500000
+  },
+  {
+    "id": "mod_010",
+    "name": "The Drowned Bell",
+    "description": "Ringing a bell at the bottom of the ocean summons a colossal drowned colossus. Survive its tidal waves and sonar screams to claim a sunken treasure hoard.",
+    "category": "JUMPSCARE",
+    "poster_url": "https://picsum.photos/seed/drowned_bell/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/drowned_bell_1/800/600",
+      "https://picsum.photos/seed/drowned_bell_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/drowned_bell.mcpack",
+    "file_size": 3072000,
+    "rating": 4.3,
+    "downloads": 54900,
+    "is_premium": false,
+    "author": "TidalTerror",
+    "mcpe_version": "1.20+",
+    "updated_at": 1702500000
+  },
+  {
+    "id": "mod_011",
+    "name": "Bone Dust Texture Pack",
+    "description": "Every surface is covered in bone fragments and ash. Grass becomes bleached bone meal, water turns to a murky grey slurry, torches flicker with sickly green flame.",
+    "category": "TEXTURE",
+    "poster_url": "https://picsum.photos/seed/bone_dust/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/bone_dust_1/800/600",
+      "https://picsum.photos/seed/bone_dust_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/bone_dust.mcpack",
+    "file_size": 19456000,
+    "rating": 4.5,
+    "downloads": 110300,
+    "is_premium": false,
+    "author": "MacabrePixels",
+    "mcpe_version": "1.19+",
+    "updated_at": 1699500000
+  },
+  {
+    "id": "mod_012",
+    "name": "Last Rites: Survival",
+    "description": "A hardcore survival mod where death is permanent. Mobs hit harder, food spoils, torches burn out, and a mysterious cult hunts you across three dimensions.",
+    "category": "GAMEPLAY",
+    "poster_url": "https://picsum.photos/seed/last_rites/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/last_rites_1/800/600",
+      "https://picsum.photos/seed/last_rites_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/last_rites.mcpack",
+    "file_size": 8192000,
+    "rating": 4.8,
+    "downloads": 234000,
+    "is_premium": true,
+    "author": "HardcoreHorror",
+    "mcpe_version": "1.20+",
+    "updated_at": 1705000000
+  },
+  {
+    "id": "mod_013",
+    "name": "Velvet Specter",
+    "description": "A translucent figure in a Victorian dress glides silently through villages. She whispers coordinates of buried loot — but following her leads to a cursed pit.",
+    "category": "ENTITY",
+    "poster_url": "https://picsum.photos/seed/velvet_specter/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/velvet_1/800/600",
+      "https://picsum.photos/seed/velvet_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/velvet_specter.mcpack",
+    "file_size": 2304000,
+    "rating": 4.6,
+    "downloads": 83700,
+    "is_premium": false,
+    "author": "VictorianVoid",
+    "mcpe_version": "1.20+",
+    "updated_at": 1701800000
+  },
+  {
+    "id": "mod_014",
+    "name": "Thornfield Lighthouse",
+    "description": "A survival map set on a storm-battered island. The lighthouse beam reveals monsters hidden in the dark. Keep it spinning or face what lurks offshore.",
+    "category": "MAP",
+    "poster_url": "https://picsum.photos/seed/thornfield/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/thornfield_1/800/600",
+      "https://picsum.photos/seed/thornfield_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/thornfield_lighthouse.mcworld",
+    "file_size": 9216000,
+    "rating": 4.7,
+    "downloads": 156800,
+    "is_premium": true,
+    "author": "NightmareBuilds",
+    "mcpe_version": "1.20+",
+    "updated_at": 1703500000
+  },
+  {
+    "id": "mod_015",
+    "name": "Plague Carrier",
+    "description": "A shambling humanoid spreads a withering plague on contact. Infected players slowly lose max health. Only a rare antidote cures it — if you can craft it in time.",
+    "category": "ENTITY",
+    "poster_url": "https://picsum.photos/seed/plague_carrier/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/plague_1/800/600",
+      "https://picsum.photos/seed/plague_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/plague_carrier.mcpack",
+    "file_size": 1792000,
+    "rating": 4.4,
+    "downloads": 61200,
+    "is_premium": false,
+    "author": "VoidCraft",
+    "mcpe_version": "1.20+",
+    "updated_at": 1700200000
+  },
+  {
+    "id": "mod_016",
+    "name": "Blood Moon Shader",
+    "description": "When the moon rises crimson, everything changes. Shadows deepen, the sky bleeds red, and an eerie haze distorts the edges of your vision.",
+    "category": "SHADER",
+    "poster_url": "https://picsum.photos/seed/blood_moon/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/blood_moon_1/800/600",
+      "https://picsum.photos/seed/blood_moon_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/blood_moon.mcpack",
+    "file_size": 3584000,
+    "rating": 4.9,
+    "downloads": 198400,
+    "is_premium": false,
+    "author": "ShadowPixelFX",
+    "mcpe_version": "1.20+",
+    "updated_at": 1704500000
+  },
+  {
+    "id": "mod_017",
+    "name": "Flickering Dread",
+    "description": "Torches and lanterns randomly flicker and die near hostile mobs. Electrical effects glitch reality when the Flicker Wraith is close — a jumpscare specialist.",
+    "category": "JUMPSCARE",
+    "poster_url": "https://picsum.photos/seed/flickering_dread/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/flicker_1/800/600",
+      "https://picsum.photos/seed/flicker_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/flickering_dread.mcpack",
+    "file_size": 2816000,
+    "rating": 4.5,
+    "downloads": 77600,
+    "is_premium": false,
+    "author": "StaticNightmare",
+    "mcpe_version": "1.19+",
+    "updated_at": 1699800000
+  },
+  {
+    "id": "mod_018",
+    "name": "Withered Biome Texture Pack",
+    "description": "Transforms all biomes into a post-apocalyptic wasteland. Dead trees, cracked earth, desaturated sky — and skeletons wearing the armour of fallen civilisations.",
+    "category": "TEXTURE",
+    "poster_url": "https://picsum.photos/seed/withered_biome/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/withered_1/800/600",
+      "https://picsum.photos/seed/withered_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/withered_biome.mcpack",
+    "file_size": 28672000,
+    "rating": 4.7,
+    "downloads": 167900,
+    "is_premium": true,
+    "author": "AshAndDustArt",
+    "mcpe_version": "1.20+",
+    "updated_at": 1705500000
+  },
+  {
+    "id": "mod_019",
+    "name": "The Skinless Shepherd",
+    "description": "A grotesque flayed creature that herds passive mobs toward slaughter pits it digs overnight. Defeating it drops a cursed relic with powerful but dangerous abilities.",
+    "category": "ENTITY",
+    "poster_url": "https://picsum.photos/seed/skinless_shepherd/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/shepherd_1/800/600",
+      "https://picsum.photos/seed/shepherd_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/skinless_shepherd.mcpack",
+    "file_size": 2048000,
+    "rating": 4.6,
+    "downloads": 91000,
+    "is_premium": false,
+    "author": "FleshAndBone",
+    "mcpe_version": "1.20+",
+    "updated_at": 1702800000
+  },
+  {
+    "id": "mod_020",
+    "name": "Forsaken Subway: Escape",
+    "description": "Navigate an abandoned underground metro system. Power flickering lights, dodge eyeless tunnel dwellers, and piece together what happened to the last crew.",
+    "category": "MAP",
+    "poster_url": "https://picsum.photos/seed/forsaken_subway/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/subway_1/800/600",
+      "https://picsum.photos/seed/subway_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/forsaken_subway.mcworld",
+    "file_size": 21504000,
+    "rating": 4.8,
+    "downloads": 278300,
+    "is_premium": true,
+    "author": "UndergroundDread",
+    "mcpe_version": "1.20+",
+    "updated_at": 1706000000
+  },
+  {
+    "id": "mod_021",
+    "name": "Iron Lung Gameplay",
+    "description": "Survive in a tiny submarine on a blood-red sea. Oxygen is finite, hull damage is permanent, and something enormous circles below. Inspired by deep-sea dread.",
+    "category": "GAMEPLAY",
+    "poster_url": "https://picsum.photos/seed/iron_lung/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/iron_lung_1/800/600",
+      "https://picsum.photos/seed/iron_lung_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/iron_lung_gameplay.mcpack",
+    "file_size": 6144000,
+    "rating": 4.9,
+    "downloads": 341000,
+    "is_premium": true,
+    "author": "TidalTerror",
+    "mcpe_version": "1.20+",
+    "updated_at": 1706500000
+  },
+  {
+    "id": "mod_022",
+    "name": "Ash Veil Shader",
+    "description": "The world is choked in volcanic ash. A perpetual grey haze, faint embers drifting upward, and distant fires burning on the horizon. Hauntingly beautiful.",
+    "category": "SHADER",
+    "poster_url": "https://picsum.photos/seed/ash_veil/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/ash_veil_1/800/600",
+      "https://picsum.photos/seed/ash_veil_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/ash_veil.mcpack",
+    "file_size": 4608000,
+    "rating": 4.5,
+    "downloads": 74500,
+    "is_premium": false,
+    "author": "CinderForgeFX",
+    "mcpe_version": "1.19+",
+    "updated_at": 1698500000
+  },
+  {
+    "id": "mod_023",
+    "name": "The Knocking",
+    "description": "Something knocks from inside the walls at 3 AM in-game time. Breaking the wall releases a wall-crawler entity that hunts by sound. Stay silent to survive.",
+    "category": "JUMPSCARE",
+    "poster_url": "https://picsum.photos/seed/the_knocking/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/knocking_1/800/600",
+      "https://picsum.photos/seed/knocking_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/the_knocking.mcpack",
+    "file_size": 1280000,
+    "rating": 4.7,
+    "downloads": 116400,
+    "is_premium": false,
+    "author": "WallsHaveEars",
+    "mcpe_version": "1.20+",
+    "updated_at": 1703200000
+  },
+  {
+    "id": "mod_024",
+    "name": "Necrotic Nether Texture Pack",
+    "description": "The Nether is reborn as a dimension of death and silence. Bone-white netherrack, rivers of black ichor, and skeletal bastion ruins stretch to the edge of darkness.",
+    "category": "TEXTURE",
+    "poster_url": "https://picsum.photos/seed/necrotic_nether/400/300",
+    "screenshots": [
+      "https://picsum.photos/seed/nether_1/800/600",
+      "https://picsum.photos/seed/nether_2/800/600"
+    ],
+    "download_url": "https://example.com/mods/necrotic_nether.mcpack",
+    "file_size": 16384000,
+    "rating": 4.6,
+    "downloads": 132700,
+    "is_premium": false,
+    "author": "AshAndDustArt",
+    "mcpe_version": "1.20+",
+    "updated_at": 1704200000
+  }
+]
