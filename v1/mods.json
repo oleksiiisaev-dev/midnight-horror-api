@@ -156,7 +156,7 @@
     "name": "Saltmarsh Cemetery",
     "description": "A vast open-world cemetery map with 200+ graves, underground catacombs, a crumbling chapel, and wandering apparitions that phase through walls.",
     "category": "MAP",
-    "poster_url": "https://picsum.photos/seed/saltmarsh/400/300",
+     "poster_url": "https://oleksiiisaev-dev.github.io/midnight-horror-api/images/blood_steve_poster.png",
     "screenshots": [
       "https://picsum.photos/seed/saltmarsh_1/800/600",
       "https://picsum.photos/seed/saltmarsh_2/800/600"
