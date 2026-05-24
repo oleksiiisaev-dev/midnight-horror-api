@@ -1,8 +1,8 @@
- [
+[
     {
       "id": "blood_steve",
       "name": "Blood Steve",
-      "description": "A horrifying corrupted version of Steve roams your world. With 666 HP and a darkness effect on every hit, Blood Steve will hunt you relentlessly across 128
+      "description": "A horrifying corrupted version of Steve roams your world. With 666 HP and a darkness effect on every hit, Blood Steve will hunt you relentlessly across 128 
   blocks. He never loses your trail.",
       "category": "ENTITY",
       "author": "GameHunter",
@@ -13,7 +13,7 @@
       "file_size": 0,
       "poster_url": "https://oleksiiisaev-dev.github.io/midnight-horror-api/images/blood_steve_poster.png",
       "screenshots": [],
-      "download_url": "https://github.com/oleksiiisaev-dev/midnight-horror-api/releases/download/mods-v1/blood.steve.1.5.bp.mcpack",
+      "download_url": "https://github.com/oleksiiisaev-dev/midnight-horror-api/releases/download/mods-v1/blood_steve_complete.mcaddon",
       "updated_at": 1747785600000
     },
     {
@@ -30,7 +30,7 @@
       "file_size": 0,
       "poster_url": "https://oleksiiisaev-dev.github.io/midnight-horror-api/images/zombie_apocalypse_poster.png",
       "screenshots": [],
-      "download_url": "https://github.com/oleksiiisaev-dev/midnight-horror-api/releases/download/mods-v1/gh_zombie_apocalypse.1.03.bp.mcpack",
+      "download_url": "https://github.com/oleksiiisaev-dev/midnight-horror-api/releases/download/mods-v1/zombie_apocalypse_complete.mcaddon",
       "updated_at": 1747785600000
     },
     {
