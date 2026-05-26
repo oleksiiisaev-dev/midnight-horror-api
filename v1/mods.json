@@ -66,5 +66,23 @@
       "screenshots": [],
       "download_url": "https://github.com/oleksiiisaev-dev/midnight-horror-api/releases/download/mods-v1/Hospitals_Echo_SS.v.5.mcworld",
       "updated_at": 1747785600000
+    },
+ {
+      "id": "nightmare_skinpack",
+      "name": "Nightmare Skinpack",
+      "description": "Transform your character into a terrifying nightmare creature. Multiple horror skins including demons, shadow monsters and undead figures. Install and choose 
+  your horror identity.",
+      "category": "TEXTURE",
+      "author": "Unknown",                                                                                                                                   
+      "mcpe_version": "1.20+",
+      "is_premium": false,
+      "rating": 4.3,
+      "downloads": 21500,
+      "file_size": 0,
+      "poster_url": "https://oleksiiisaev-dev.github.io/midnight-horror-api/images/nightmare_skinpack_poster.png",
+      "screenshots": [],
+      "download_url": "https://github.com/oleksiiisaev-dev/midnight-horror-api/releases/download/mods-v1/Nightmare.Skinpack.mcpack",
+      "updated_at": 1748217600000
     }
+
   ]
