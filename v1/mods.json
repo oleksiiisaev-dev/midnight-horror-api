@@ -84,5 +84,21 @@
       "download_url": "https://github.com/oleksiiisaev-dev/midnight-horror-api/releases/download/mods-v1/Nightmare.Skinpack.mcpack",
       "updated_at": 1748217600000
     }
-
+ ,{
+      "id": "eyes_horror",
+      "name": "Eyes: The Horror Map",
+      "description": "Survive the night being chased by a terrifying eye monster through dark abandoned buildings. Inspired by the Eyes horror game. Collect bags of money and 
+  escape before it finds you.",
+      "category": "MAP",
+      "author": "YURIE GAZO",                                                                                                                                
+      "mcpe_version": "1.16+",
+      "is_premium": false,
+      "rating": 4.5,
+      "downloads": 38700,
+      "file_size": 0,
+      "poster_url": "https://oleksiiisaev-dev.github.io/midnight-horror-api/images/eyes_horror_poster.png",
+      "screenshots": [],
+      "download_url": "https://github.com/oleksiiisaev-dev/midnight-horror-api/releases/download/mods-v1/Eyes.Bedrock.mcworld",
+      "updated_at": 1748304000000
+    }
   ]
